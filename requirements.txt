@@ -1,0 +1,9 @@
+torch
+gymnasium
+highway-env
+numpy
+matplotlib
+pillow
+ipython
+imageio
+imageio-ffmpeg

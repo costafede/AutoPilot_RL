@@ -1,0 +1,19 @@
+# Outputs created by the notebooks (models, results, videos)
+notebooks/results/
+notebooks/videos/
+results/
+videos/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
