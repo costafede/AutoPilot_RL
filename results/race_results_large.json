@@ -1,0 +1,28 @@
+{
+  "track": "large",
+  "opponents": 6,
+  "race_seconds": 90,
+  "series": {
+    "v5 zero-shot": {
+      "return": 44.48710481418926,
+      "dnf": 1.0,
+      "win": 0.0,
+      "position": 5.8,
+      "gained": 1.2
+    },
+    "v5 + brake": {
+      "return": 271.34680985309444,
+      "dnf": 0.3,
+      "win": 0.0,
+      "position": 4.8,
+      "gained": 2.2
+    },
+    "race-trained + brake": {
+      "return": 238.00290266741936,
+      "dnf": 0.65,
+      "win": 0.0,
+      "position": 4.95,
+      "gained": 2.05
+    }
+  }
+}
