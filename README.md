@@ -124,8 +124,8 @@ Can the v5 driver win a race on a circuit it has never seen, starting last behin
 ## Reproduce
 
 ```bash
-git clone https://github.com/costafede/AutoPilotRL.git
-cd AutoPilotRL
+git clone https://github.com/costafede/AutoPilot_RL.git
+cd AutoPilot_RL
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
